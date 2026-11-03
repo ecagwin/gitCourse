@@ -1,0 +1,69 @@
+Fortress Black-White and Bronze-Bronze test plan
+Window and door lines, as printed
+
+Source: Final Fortress Black-White and Bronze-Bronze Test Plan, sheet CWS Black_White, Bronze_Bronze. Last saved November 3, 2026, 2:51 AM ET.
+Each line is one Fortress complete unit. Sizes are frame inches, width by height.
+
+Single hung
+
+Line 1. Single hung, 1 wide, 24 x 48 in. Vent, equal height. Block, SH/SW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, traditional, 2 x 2, white inside and black outside. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 2. Single hung, 2 wide rectangle, 36 x 72 in. Vent, equal height. Integral 5/8 in flange, SH/SW profile. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, Prarie 9 Lite, bronze on both faces. No lite count is entered. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Single hung, arch head
+
+Line 3. Single hung, arch head, 1 wide, 36 x 72, short side 38 in. Vent, equal height. Block, SH/SW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, traditional, 3 x 2, white inside and black outside. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 4. Single hung, arch head, 1 wide, 36 x 48, short side 44.125 in. Vent, contemporary height. Integral 5/8 in flange, SH/SW profile. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, traditional, 2 x 2, bronze on both faces. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Sliding window
+
+Line 5. Sliding window, 2 panel, 1 wide, 40 x 36 in. Fixed / vent left, from the exterior, equal height. Block, SH/SW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, traditional, 2 x 3, white inside and black outside. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 6. Sliding window, 2 panel, 1 wide, 40 x 36 in. Vent right / fixed, from the exterior, equal height. Integral 5/8 in flange, SH/SW profile. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, Prarie 9 Lite, bronze on both faces. No lite count is entered. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 7. Sliding window, Vent column after 2 Panel, 1 wide, 32 x 44 in. Left, from the exterior. Block, CM/AW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, traditional, 2 x 3, white inside and black outside. Venting height is not marked. Hardware does not apply; its color matches the interior. No-charge service is not marked.
+
+Line 8. Sliding window, Vent column after 2 Panel, 1 wide, 32 x 44 in. Right, from the exterior. Integral 5/8 in flange, CM/AW profile. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, Prarie 9 Lite. Venting height is not marked. Grille colors are not marked, and no lite count is entered. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Vent
+
+Line 9. Vent, second column labeled Vent, 1 wide, 36 x 36 in. Vent. Block, CM/AW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, traditional, 3 x 3, white inside and black outside. Venting height is not marked. Hardware does not apply; its color matches the interior. No-charge service is not marked.
+
+Line 10. Vent, second column labeled Vent, 1 wide, 36 x 36 in. Vent. Integral 5/8 in flange, CM/AW profile. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, Prarie 9 Lite, bronze on both faces. Venting height is not marked. No lite count is entered. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Fixed rectangle
+
+Line 11. Fixed rectangle, 1 wide, 36 x 36 in. None marked. Block, SH/SW profile. Exterior black, interior white. Impact laminated, tempered, Low-E. Between the glass, 5/8 in flat, traditional, 3 x 3, white inside and black outside. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 12. Fixed rectangle, 1 wide, 48 x 48 in. None marked. Integral 5/8 in flange, CM/AW profile. Exterior bronze, interior bronze. Impact laminated, annealed, Low-E. Between the glass, 3/4 in contour, Prarie 9 Lite, bronze on both faces. No lite count is entered. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Trapezoid
+
+Line 13. Trapezoid, 1 wide, facing left, 36 x 48, short side 18 in. Fixed. Block, CM/AW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, traditional, 3 x 4, white inside and black outside. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 14. Trapezoid, 1 wide, facing right, 36 x 48, short side 18 in. Fixed. Integral 5/8 in flange, CM/AW profile. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, traditional, 3 x 4, bronze on both faces. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Half circle
+
+Line 15. Half circle, 1 wide, 36 x 18 in. Fixed. Block, CM/AW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, sunburst, 1 radius bar, 3 spokes, open hub, white inside and black outside. No lite count is entered. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 16. Half circle, 1 wide, 36 x 18 in. Fixed. Integral 5/8 in flange, CM/AW profile. Exterior bronze, interior bronze. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, starburst, radius bars N/A, 3 spokes, no hub, 4 x 3, bronze on both faces. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Arch head
+
+Line 17. Fixed arch head, 1 wide, 36 x 48, short side 40 in. Fixed. Block, CM/AW profile. Exterior black, interior white. Impact laminated, annealed, Low-E. Between the glass, 5/8 in flat, sunburst, 1 radius bar, 3 spokes, no hub, white inside and black outside. No lite count is entered. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Line 18. Fixed arch head, 1 wide, 36 x 48, short side 40 in. Fixed. Integral 5/8 in flange, CM/AW profile. Exterior bronze, interior bronze. Tempered only. Between the glass, 5/8 in flat, starburst, radius bars N/A, 3 spokes, no hub, 4 x 2, bronze on both faces. Impact laminated and Low-E are not marked. Hardware does not apply; its color matches the interior. Marked as a no-charge service request.
+
+Stacking patio door
+
+Line 19. Stacking multi-slide, 3 panel, 108 x 96 in. OXO, two tracks. Block. Exterior black, interior white. Impact laminated, tempered, Low-E. Between the glass, 5/8 in flat, traditional, 2 x 6, white inside and black outside. No width configuration and no frame profile are marked. Standard hardware, color matched to the interior. Marked as a no-charge service request.
+
+Line 20. Stacking multi-slide, 6 panel, 288 x 96 in. O2X-2XO, three tracks. Block. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, traditional, 4 x 6, bronze on both faces. No width configuration and no frame profile are marked. Flush handle, color matched to the interior. Marked as a no-charge service request.
+
+Pocketing patio door
+
+Line 21. Pocketing multi-slide, 4 panel, 192 x 196 in. P4X, four tracks. Block. Exterior black, interior white. Impact laminated, tempered, Low-E. Between the glass, 5/8 in flat, Prarie 9 Lite, white inside and black outside. No width configuration and no frame profile are marked. No lite count is entered. Standard hardware, color matched to the interior. Marked as a no-charge service request.
+
+Line 22. Pocketing multi-slide, 8 panel, 384 x 96 in. P4X, four tracks. Block. Exterior bronze, interior bronze. Impact laminated, tempered, Low-E. Between the glass, 3/4 in contour, traditional, 4 x 6, bronze on both faces. No width configuration and no frame profile are marked. Flush handle, color matched to the interior. Marked as a no-charge service request.
